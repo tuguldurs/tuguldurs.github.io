@@ -23,7 +23,7 @@ Over the years I have published about 30 peer-reviewed papers in the top journal
 ###### Places I gave invited talks and colloquiua:
 
 <iframe width="100%" height="500px" frameborder="0"
-        src="/talkmap/map.html" scrolling="no"></iframe>
+        src="/cluster_map/map.html" scrolling="no"></iframe>
 
 ------
 
