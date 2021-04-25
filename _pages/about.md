@@ -12,7 +12,7 @@ I am a data scientist generally interested in machine learning, data visualizati
 
 My background is in theoretical and computational [astrophysics](/astro/) - over the years I wrote nearly 30 papers about exploding stars in top peer-reviewed journals. Completed my PhD in 2016 (@ UC Santa Cruz), and in the past worked as a NASA Hubble Fellow (@ Ohio State).
 
-Here is my [resume]() and [academic CV]().
+Here is my [resume]() and [academic CV](/files/CV.pdf).
 
 ### Contact:
 email: tuguldur.s@gmail.com
