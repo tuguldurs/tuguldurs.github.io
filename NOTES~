@@ -1,0 +1,4 @@
+locally on inara:
+$ jekyll serve liveserve
+
+_config.yml updates go on every restart; otherwise updated on the go in a couple of seconds.
