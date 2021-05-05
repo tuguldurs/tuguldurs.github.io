@@ -1,7 +1,7 @@
 ---
 title: 'send gmail through python'
 date: 2021-04-24
-permalink: /posts/2012/04/python-email/
+permalink: /posts/2021/04/python-email/
 tags:
   - python
   - email
