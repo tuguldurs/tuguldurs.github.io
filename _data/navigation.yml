@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "data science"
-    url: /datsci/
+  - title: "projects"
+    url: /projs/
 
   - title: "astrophysics"
     url: /astro/

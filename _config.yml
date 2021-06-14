@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 #  portfolio:
-  datsci:
+  projs:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _datsci # _portfolio
+  # _projs # _portfolio
   - scope:
       path: ""
-      type: datsci # portfolio
+      type: projs # portfolio
     values:
       layout: single
       author_profile: true
